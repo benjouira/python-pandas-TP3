@@ -1,3 +1,3 @@
 # python-pandas-TP3
 
-some python exemples
+python full exercice
